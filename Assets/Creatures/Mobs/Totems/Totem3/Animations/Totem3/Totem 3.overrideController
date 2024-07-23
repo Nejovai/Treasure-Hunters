@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Totem 3
+  m_Controller: {fileID: 9100000, guid: 6b8258e2e654fd24a993d4630bd57bcf, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 9cc77cd4b61a47e4c87ee1d982be37f6, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: bca21d5eb4bd33f40984e59298f85e28, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ccc345974712fa34eb6c5887b8ab5623, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f63fe2290cf713741b800606ac67a3ee, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3fa2af81d6ce703429981dccfdd76703, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a39b06a0f9c71d240a9ac3949e1e9340, type: 2}

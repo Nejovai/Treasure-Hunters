@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68e724ea6f87d2246bad9c6f2b47743e, type: 3}
+  m_Name: en
+  m_EditorClassIdentifier: 
+  _url: https://docs.google.com/spreadsheets/d/e/2PACX-1vTgpEEC0_DcaKCoQodM7deYcoGa2kgdWt1VlBavu8LqhLECjW2DDU4m2i8xX9e0IeMDkxCoYp2jHdA2/pub?gid=0&single=true&output=tsv
+  _localeItems:
+  - Key: menu_tile
+    Value: "Menu\r"
+  - Key: button_start
+    Value: "Start\r"
+  - Key: button_option
+    Value: "Options\r"
+  - Key: button_exit
+    Value: "Exit\r"
+  - Key: selected_language
+    Value: "Selected anguage is {0}\r"
+  - Key: button_back
+    Value: "Back\r"
+  - Key: button_locales
+    Value: "Languages\r"
+  - Key: Level1_Key_01
+    Value: "The key was found...\r"
+  - Key: Level1_Key_02
+    Value: "surely something can be revealed to them.\r"
+  - Key: Level1_Door_01
+    Value: "The door is closed.\r"
+  - Key: Level1_Sword_01
+    Value: "The sword looks battered...\r"
+  - Key: Level1_Sword_02
+    Value: "but it's still usable.\r"
+  - Key: Level3_Crabby_GetCoin_01
+    Value: "Get me a \"Green gem\"...\r"
+  - Key: Level3_Crabby_GetCoin_02
+    Value: "In return, I'll tell you the pirate wisdom!\r"
+  - Key: Level3_Crabby_GetObtained_01
+    Value: "Oh, you found him!\r"
+  - Key: Level3_Crabby_GetObtained_02
+    Value: "Here's your reward:\r"
+  - Key: Level3_Crabby_GetObtained_03
+    Value: "\"Take everything and don't give anything away!\"\r"
+  - Key: button_main_menu
+    Value: "Main menu\r"
+  - Key: button_restart
+    Value: "Restart\r"
+  - Key: label_music
+    Value: "Music:\r"
+  - Key: label_sound
+    Value: "Sound:\r"
+  - Key: dialog_box_continue
+    Value: "Continue...\r"
+  - Key: Perks_Double_Jump
+    Value: "Allows you to make a second jump.\r"
+  - Key: Perks_Dash
+    Value: "It gives you the opportunity to make a leap forward.\r"
+  - Key: UI_PerksWindows_Use
+    Value: "Use\r"
+  - Key: UI_PerksWindows_Buy
+    Value: "Buy\r"
+  - Key: UI_PerksWindows_Price
+    Value: Price

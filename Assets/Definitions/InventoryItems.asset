@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b9dcd88fa9db9649b557f299cef2a4e, type: 3}
+  m_Name: InventoryItems
+  m_EditorClassIdentifier: 
+  _items:
+  - _id: Coin
+    _icon: {fileID: -879132344, guid: 00807f0d421295d488380a16a1958094, type: 3}
+    _tags: 00000000
+    _maxCount: 0
+  - _id: Sword
+    _icon: {fileID: 21300000, guid: 8a6d73dd22cf4eb4290986ed2725a37b, type: 3}
+    _tags: 000000000100000002000000
+    _maxCount: 3
+  - _id: Key
+    _icon: {fileID: 21300000, guid: 9a28f372871f84d4daedcdd2b4a95d1f, type: 3}
+    _tags: 
+    _maxCount: 0
+  - _id: Potion
+    _icon: {fileID: 1187325289, guid: c0a1a855877c68f4aafc3e0f97db46c0, type: 3}
+    _tags: 030000000000000001000000
+    _maxCount: 1
+  - _id: PearlProjectile
+    _icon: {fileID: 21300000, guid: bf74fb83dc6dbd541a67bf2a03784b42, type: 3}
+    _tags: 010000000000000002000000
+    _maxCount: 3
+  - _id: PotionMin
+    _icon: {fileID: 638889102, guid: c0a1a855877c68f4aafc3e0f97db46c0, type: 3}
+    _tags: 030000000000000001000000
+    _maxCount: 3
+  - _id: GreenGem
+    _icon: {fileID: -1993738331, guid: e47ab4686be0cb44ea5694bce11acaa8, type: 3}
+    _tags: 01000000
+    _maxCount: 1
